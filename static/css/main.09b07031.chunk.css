@@ -1,0 +1,2 @@
+.post-list{display:flex;flex-direction:column;grid-gap:20px;gap:20px;list-style-type:none}.post-info{padding:0 10px;border:1px solid #000;border-radius:10px}.post-title{text-decoration:underline;text-transform:capitalize}.post-body{background-color:#c7c7c7;border-radius:10px}.comments,.post-body{margin:10px;padding:10px;font-weight:700}.comments{border:1px solid #000}.comments-info{margin:10px;padding:10px;background-color:#c7c7c7;font-weight:700;border-radius:10px}
+/*# sourceMappingURL=main.09b07031.chunk.css.map */
